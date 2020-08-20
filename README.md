@@ -1,4 +1,4 @@
-# question-game-api
+# python-hangman-terminal
 Terminal based hangman game with an option to add unlimit words to the word_list.py
 
   - Customise amount of guesses the user has.
