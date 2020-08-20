@@ -23,7 +23,7 @@ Install the dependencies and run the application.
 
 ### Dependencies
 
-| Dependency | Website |
+| Dependency | used for |
 | ------ | ------ |
 | random | Generate a random selection from the word list |
 | os | Get the name of the system to support both windows and unix systems for the clear screen function |
