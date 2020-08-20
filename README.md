@@ -1,4 +1,6 @@
 # python-hangman-terminal
+![screenshot of the app](hangman.gif)
+
 Terminal based hangman game with an option to add unlimit words to the word_list.py
 
   - Customise amount of guesses the user has.
